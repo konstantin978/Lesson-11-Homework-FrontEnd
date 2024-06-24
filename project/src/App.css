@@ -1,0 +1,40 @@
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.row {
+  display: flex;
+  gap: 20px;
+}
+
+.row2 {
+  display: block;
+}
+
+.row2 button {
+  width: 100%;
+}
+
+.list {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+img {
+  width: 100px;
+  height: 160px;
+}
+
+table {
+  width: 700px;
+  border-collapse: collapse;
+}
+
+table, tr, th, td {
+  border: 2px solid white;
+}
